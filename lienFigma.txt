@@ -1,0 +1,5 @@
+Project Design - Figma File
+
+The design of this project is created using Figma. You can access the Figma file through the following link:
+
+https://www.figma.com/proto/9NEJ3PSti7kkK3WVLTIzY0/a7kili?node-id=1-6&t=hFN73fT84SqgWRiN-1
